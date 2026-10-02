@@ -10,3 +10,8 @@ currently we create our first branch to practice all the branching commands incl
 git branch -a
 git fetch
 git checkout branch-name
+
+
+# Third change
+
+creating a new branch in working directory using git checkout -b another_branch
